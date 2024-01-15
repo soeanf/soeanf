@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Sören and I am a teacher at a german comprehensive school where I teach maths, chemistry and computer science. 
+
+Although i have never officially learnt to code, I was so bored with dull repetitive tasks that I started writing little tools to work more efficiently. I currently work mainly with python, php and js, but wouldn't call myself an expert in them.
+
 <!--
 **soeanf/soeanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
